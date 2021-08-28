@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Aayushi Shrivastava a.k.a @aayushi0402
 - 👀 I’m interested in Cloud Computing, Data Science and Software Development :nerd_face:
 - 🌱 I’m currently learning Data Analytics/Science, Development on AWS & GCP....and a bit about Psychology :monocle_face:
+- :trophy: AWS Certified Cloud Practitioner & AWS Certified Solutions Architect Associate :sunglasses:
 - 💞️ I’m looking to collaborate with people who love building awesome solutions to Data Science and Software problems/cases just like me! :computer:
 - 📫 How to reach me? You can e-mail me at compscistats@gmail.com!:incoming_envelope:
 
